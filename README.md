@@ -1,11 +1,6 @@
 # MusicPlayer-JavaFX
 Music player with JavaFX
 
--Name of each team member:
-+ Pham Phuoc Tan
-+ Nguyen Hoang Phuc Khang
-+ Nguyen Minh Trung Hieu 
-
 -Demo group using JDK19 and SDK is openjdk-19 java version "19", using database is Mysql with JDBC.
 
 -Use mysql url: localhost:3306/musicplayer
