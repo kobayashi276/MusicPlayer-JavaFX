@@ -1,12 +1,6 @@
 # MusicPlayer-JavaFX
 Music player with JavaFX
 
--Tên của từng thành viên trong nhóm:
-
-+ Phạm Phước Tấn
-+ Nguyễn Hoàng Phúc Khang
-+ Nguyễn Minh Trung Hiếu
-
 -Demo nhóm sử dụng JDK19 và SDK là openjdk-19 java version "19", sử dụng database là Mysql với JDBC.
 
 -Sử dụng url của mysql là: localhost:3306/musicplayer
